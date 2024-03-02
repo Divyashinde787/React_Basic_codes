@@ -1,0 +1,34 @@
+ul{
+  list-style-type:none;
+  padding:20px;
+  background-color:rgb(198, 4, 101);
+}
+ul li {
+  display:inline;
+  padding:20px;
+}
+ul li a {
+  text-decoration:none;
+  color:white;
+  font-size: 25px;
+}
+h1{
+  color: brown;
+  padding-top: 160px;
+  padding-left: 190px;
+}
+.container{
+  width:100%;
+  height:50vh;
+  background-image:url("DiwaliBanner.jpg");
+  background-size:100% 50vh;
+  background-repeat:no-repeat;
+}
+#search { 
+  padding: 8px; 
+  font-size: 17px; 
+  border: none; 
+} 
+.text-small{
+  font-size: 18px;
+}

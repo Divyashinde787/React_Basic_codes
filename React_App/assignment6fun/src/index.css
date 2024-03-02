@@ -1,0 +1,20 @@
+.nav{
+  width:100%;
+  background-color:black;
+  padding:10px;
+  border-radius:2px;
+  
+}
+.nav li{
+  display:inline;
+  padding:10px;
+ 
+}
+.nav li a{
+   color:white;
+   text-decoration:none;
+}
+.control{
+  width:400px;
+  height:40px;
+}
